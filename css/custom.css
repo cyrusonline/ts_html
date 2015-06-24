@@ -54,9 +54,29 @@ h3{
 .navbar-nav>li>a{
 	padding:10px 10px 0 10px;
 }
-
 .block{
-	backgorund:#fffff;
+	background:#fff;
 	border-radius:5px;
+	padding: 15px 20px;
+	margin-bottom:20px;
 	
 }
+
+.main-col{
+	overflow:auto;
+	
+}
+
+.main-col h1{
+	font-size:22px;
+	margin:5px 0 0 0;
+	padding:0;
+}
+
+.main-col h1{
+	font-size:16px;
+	margin:5px 0 0 0;
+	padding:0;
+	color:#aaa;
+}
+
